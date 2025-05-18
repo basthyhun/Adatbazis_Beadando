@@ -1,4 +1,4 @@
 Adatbázis beadandó
-1. lehetőseég
+1. lehetőség
 autókereskedő adatbázisa
 Básthy Hunor György
